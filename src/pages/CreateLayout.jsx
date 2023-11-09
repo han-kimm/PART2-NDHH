@@ -1,6 +1,6 @@
 import { Outlet } from "react-router"
 
-function MainLayout() {
+function CreateLayout() {
   return (
     <>
       <nav></nav>
@@ -10,4 +10,4 @@ function MainLayout() {
   )
 }
 
-export default MainLayout
+export default CreateLayout
